@@ -1,0 +1,8 @@
+{
+  "name": "mri-safety-resolver",
+  "version": "0.4.0",
+  "private": true,
+  "dependencies": {
+    "pdf-parse": "1.1.1"
+  }
+}
